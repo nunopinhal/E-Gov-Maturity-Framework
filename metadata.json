@@ -1,0 +1,5 @@
+{
+  "name": "E-Gov Maturity Framework",
+  "description": "A multi-dimensional e-government maturity assessment framework that can be configured to represent the context to be analyzed. It allows users to assess local administrations and track progress over time.",
+  "requestFramePermissions": []
+}
